@@ -59,7 +59,10 @@ display: flex;
 justify-content: center;
  }
  img{
-    max-width: 80%;
+    max-width:80%;
+    width:250px;
+    height:250px;
+    padding:1rem;
  }
 
  footer{
